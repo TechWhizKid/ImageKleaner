@@ -16,31 +16,49 @@ However, this metadata can pose privacy and security risks. This simple tool can
 
 ![Static Badge](https://img.shields.io/badge/Version-v1.0-blue)
 
-1. Clone the repository:
+**Download the latest binary release from [here](https://github.com/TechWhizKid/ImageKleaner/releases/) or follow the steps bellow:**
+
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/TechWhizKid/ImageKleaner.git
    ```
 
-2. Install the required dependencies using pip:
+2. **For Python** - **Install the required dependencies using pip:**
+
+   - _**For Windows CMD / PowerShell**_
 
    ```bash
    cd ImageKleaner && pip install -r requrements.txt
    ```
 
-3. Run the application:
-
-   - _For Windows CMD / PowerShell_
+   - _**For Linux / MacOS**_
 
    ```bash
-   ImageKleaner.py
+   cd ImageKleaner && pip3 install -r requrements.txt
    ```
 
-   - _For Linux / MacOS_
+3. **Run the application:**
 
-   ```
-   python3 ImageKleaner.py
-   ```
+   - _**For Python:**_
+
+     - _**For Windows CMD / PowerShell**_
+
+     ```bash
+     ImageKleaner.py
+     ```
+
+     - _**For Linux / MacOS**_
+
+     ```
+     python3 ImageKleaner.py
+     ```
+
+   - _**For Java:**_
+
+     ```
+     java ImageKleaner.java
+     ```
 
 ---
 
@@ -48,8 +66,9 @@ However, this metadata can pose privacy and security risks. This simple tool can
 
 <div align="center">
 
-![ImageKleaner App Window](./screenshot.png)
+![Python App Window](./screenshot_py.png)
+![Java App Window](./screenshot_java.png)
 
-</dviv>
+</div>
 
 ---
