@@ -29,13 +29,13 @@ However, this metadata can pose privacy and security risks. This simple tool can
    - _**For Windows CMD / PowerShell**_
 
    ```bash
-   cd ImageKleaner && pip install -r requrements.txt
+   cd ImageKleaner && pip install -r requirements.txt
    ```
 
    - _**For Linux / MacOS**_
 
    ```bash
-   cd ImageKleaner && pip3 install -r requrements.txt
+   cd ImageKleaner && pip3 install -r requirements.txt
    ```
 
 3. **Run the application:**
